@@ -1,0 +1,8 @@
+Objective
+    Analyze global supply chain risks
+    Identify factors affecting logistics delays
+    Predict shipment delay risk using machine learning
+
+Business Question
+    Which factors cause shipment delays?
+    Can we predict delayed deliveries?
